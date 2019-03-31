@@ -1,0 +1,9 @@
+[submodule "src/hdf5"]
+	path = src/hdf5
+	url = https://bitbucket.hdfgroup.org/scm/hdffv/hdf5.git
+[submodule "src/netcdf-c"]
+	path = src/netcdf-c
+	url = https://github.com/Unidata/netcdf-c.git
+[submodule "src/netcdf-fortran"]
+	path = src/netcdf-fortran
+	url = https://github.com/Unidata/netcdf-fortran.git
