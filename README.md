@@ -16,4 +16,5 @@ apt install -y libz-dev
 apt install -y m4
 apt install -y make
 apt install -y mpich
+apt install -y pkg-config
 ```
