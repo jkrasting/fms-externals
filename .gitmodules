@@ -7,3 +7,6 @@
 [submodule "src/netcdf-fortran"]
 	path = src/netcdf-fortran
 	url = https://github.com/Unidata/netcdf-fortran.git
+[submodule "src/nco"]
+	path = src/nco
+	url = https://github.com/nco/nco.git
